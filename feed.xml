@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Little Beras</title>
+    <link href="https://littleberas.github.io/feed.xml" rel="self" />
+    <link href="https://littleberas.github.io" />
+    <updated>2024-04-24T23:38:46+01:00</updated>
+    <author>
+        <name>Andrew Huber</name>
+    </author>
+    <id>https://littleberas.github.io</id>
+
+    <entry>
+        <title>Guidelines</title>
+        <author>
+            <name>Andrew Huber</name>
+        </author>
+        <link href="https://littleberas.github.io/guidelines.html"/>
+        <id>https://littleberas.github.io/guidelines.html</id>
+
+        <updated>2024-04-24T23:38:46+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

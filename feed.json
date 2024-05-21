@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Little Beras",
+    "description": "",
+    "home_page_url": "https://littleberas.github.io",
+    "feed_url": "https://littleberas.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andrew Huber"
+    },
+    "items": [
+        {
+            "id": "https://littleberas.github.io/guidelines.html",
+            "url": "https://littleberas.github.io/guidelines.html",
+            "title": "Guidelines",
+            "author": {
+                "name": "Andrew Huber"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-24T23:38:46+01:00",
+            "date_modified": "2024-04-24T23:38:46+01:00"
+        }
+    ]
+}
